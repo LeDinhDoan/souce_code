@@ -1,0 +1,2 @@
+module DoannhiHelper
+end
